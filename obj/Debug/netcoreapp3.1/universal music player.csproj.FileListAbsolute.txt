@@ -1,0 +1,19 @@
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.exe
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.deps.json
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.runtimeconfig.json
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.runtimeconfig.dev.json
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.dll
+C:\Users\Unit6\source\repos\universal music player\universal music player\bin\Debug\netcoreapp3.1\universal music player.pdb
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.csprojAssemblyReference.cache
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player_MarkupCompile.cache
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player_MarkupCompile.lref
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.g.resources
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.csproj.CoreCompileInputs.cache
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.AssemblyInfoInputs.cache
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.AssemblyInfo.cs
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.dll
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.pdb
+C:\Users\Unit6\source\repos\universal music player\universal music player\obj\Debug\netcoreapp3.1\universal music player.genruntimeconfig.cache
